@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985155644330",
+    "project_id": "todoapp-irfanka",
+    "storage_bucket": "todoapp-irfanka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985155644330:android:a82a933b679aaf3db9d9d3",
+        "android_client_info": {
+          "package_name": "com.example.app_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985155644330-hmjt3u549s49o8v5j69iurm8ccst9erd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIA4hFsb8F68L_r5H2jGGtgFd7FwHFpDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985155644330-hmjt3u549s49o8v5j69iurm8ccst9erd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
